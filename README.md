@@ -166,6 +166,15 @@ See the [`LICENSE`](LICENSE) file for the full license terms.
 
 **Important:** This section assumes you have added an actual `LICENSE` file containing the MIT license text to the repository. The README alone does not grant those permissions.
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Contact
 
-Created as part of my learning journey in Python, NumPy, image processing, and AI/ML engineering.
+**Shreyas Vitthal Kumbhar**
+
+If you have any questions, feedback, or want to collaborate on AI projects, feel free to reach out!
+
+*   **GitHub:** [@Shreyask28](https://github.com/Shreyask28)
+*   **LinkedIn:** [linkedin.com/in/shreyas-kumbhar-63715237a/](https://www.linkedin.com/in/shreyas-kumbhar-63715237a/)
+*   **Email:** [kumbharshreyas7777@gmail.com](kumbharshreyas7777@gmail.com)
+
+---
+⭐ *If you find these tutorials helpful, please consider giving this repository a star!* ⭐
